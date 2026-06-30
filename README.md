@@ -24,25 +24,6 @@ I enjoy turning rough ideas into usable products, improving user experience, and
 
 ---
 
-### 🚀 Featured Project
-
-#### [LuJie CareerKit](https://github.com/Chozzc/Lujie-Careerkit)
-
-An AI-powered career workspace for students and job seekers.
-
-It covers the full job-search workflow from resume editing to offer tracking:
-
-- Resume editing and real-time preview
-- JD-based resume optimization
-- Application progress tracking
-- Mock interview question generation
-- AI interview review and feedback
-- Local-first data storage with SQLite
-
-> Goal: make internship and campus recruitment preparation less scattered and more manageable.
-
----
-
 ### 🛠️ Tech Stack
 
 <p>
